@@ -8,6 +8,8 @@ require '../style/style-charts.scss'
 pl = require 'prelude-ls'
 [width,height] = [1050,150]
 color = d3.scale.category20()
+# git remote add origin https://github.com/lewis500/multi-channel.git
+# git push -u origin master
 
 m = 
 	t: 0
